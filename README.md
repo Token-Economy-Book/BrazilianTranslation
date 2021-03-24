@@ -10,7 +10,7 @@ Produção: Caroline Helbing<br>
 Tradução: António Chagas, Courtnay Guimaraes, Jose Rui Sousa, Joana Camilo (work in progress)
 
 # Versiones
-Brasileira: (work in progress)
+Brasileira: (work in progress)<br>
 Portuguesa: https://github.com/Token-Economy-Book/PortugeseTranslation/wiki<br>
 Other languages: https://github.com/Token-Economy-Book/<br>
 
