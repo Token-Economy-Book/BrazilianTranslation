@@ -7,9 +7,10 @@ Produção:Token Kitchen, 10119 Berlin <br>
 http://token.kitchen<br>
 Design: Justyna Zubrycka <br>
 Produção: Caroline Helbing<br>
-Tradução: António Chagas, Courtnay Guimaraes, Jose Rui Sousa, Joana Camilo
+Tradução: António Chagas, Courtnay Guimaraes, Jose Rui Sousa, Joana Camilo (work in progress)
 
 # Versiones
+Brasileira: (work in progress)
 Portuguesa: https://github.com/Token-Economy-Book/PortugeseTranslation/wiki<br>
 Other languages: https://github.com/Token-Economy-Book/<br>
 
