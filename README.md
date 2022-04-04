@@ -10,11 +10,15 @@ Produção: Caroline Helbing<br>
 Tradução: António Chagas, Courtnay Guimaraes, Jose Rui Sousa, Joana Camilo (work in progress)
 
 # Versiones
+
 Brasileira (edição grátis): https://github.com/Token-Economy-Book/BrazilianTranslatio/wiki<br>
-Brasileira (edição Kindl & livro impressão): https://www.amazon.com/Economia-dos-Tokens-Edição-Brasileira/dp/3949714081/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1649074022&sr=1-4<br>
+Brasileira (edição Kindle & livro impressão): https://www.amazon.com/Economia-dos-Tokens-Edição-Brasileira/dp/3949714081/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1649074022&sr=1-4<br>
+
 Portuguesa (edição grátis): https://github.com/Token-Economy-Book/PortugeseTranslation/wiki<br>
-Other languages: https://github.com/Token-Economy-Book/<br>
 Portuguesa (edição Kindl & livro impressão): https://www.amazon.es/Economia-dos-Tokens-Edição-Portuguesa/dp/3949714006/ref=sr_1_4?__mk_es_ES=ÅMÅŽÕÑ&crid=8N4X8V99QG70&keywords=shermin+voshmgir&qid=1649074337&sprefix=shermin+voshmgir%2Caps%2C157&sr=8-4<br>
+
+Other languages: https://github.com/Token-Economy-Book/<br>
+
 
 # Licença
 Copyleft 2020, Shermin Voshmgir: Creative Commons – CC BY-NC-SA<br>
