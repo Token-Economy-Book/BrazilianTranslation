@@ -1,4 +1,4 @@
-# Economia dos Tokens: Como a Web3 está reinventando a Internet e as relações entre os agentes económicos<br>
+# Economia dos Tokens: Como a Web3 está reinventando a Internet e as relações entre os agentes econômicos<br>
 Edição Brasileira <br>
 Traduzido de “Token Economy: How the Web3 reinvents the Internet”, Segunda Edição, Junho 2020. A primeira edição foi publicada pela BlokchcianHub Berlin em Junho de 2019 sob o título "Token Economy: How Blockchain & Smart contracts revolutionize the Economy" e teve duas edições alteradas.
 
@@ -9,7 +9,7 @@ Design: Justyna Zubrycka <br>
 Produção: Caroline Helbing<br>
 Tradução: António Chagas, Courtnay Guimaraes, Jose Rui Sousa, Joana Camilo (work in progress)
 
-# Versiones
+# Versões
 
 Brasileira (edição grátis): https://github.com/Token-Economy-Book/BrazilianTranslatio/wiki<br>
 Brasileira (edição Kindle & livro impressão): https://www.amazon.com/Economia-dos-Tokens-Edição-Brasileira/dp/3949714081/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1649074022&sr=1-4<br>
